@@ -4,6 +4,12 @@ I'm Brazilian, born in 26/11/1993, and actually works as Front-End Engineer at D
 Contact-me on:<br/>
 [LinkedIn](https://www.linkedin.com/in/rodrigorobertoalmeida/) | [Linktree - Others links](https://linktr.ee/rodrigo_draf)
 
+## More info:
+- 🔭 I’m currently working on a probably an awesome thing
+- 🌱 I’m currently learning React Native, TypeScript and GraphQL
+- 💬 Ask me about anything you want
+- ⚡ Fun fact: The longest English word is 189,819 letters long.
+
 ![Drafenous github stats](https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact)

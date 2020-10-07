@@ -8,8 +8,9 @@ Contact-me on:<br/>
 - 🔭 I’m currently working on a probably an awesome thing
 - 🌱 I’m currently learning React Native, TypeScript and GraphQL
 - 💬 Ask me about anything you want
-- ⚡ Fun fact: The longest English word is 189,819 letters long.
+- ⚡ Fun fact: When I was at school, my dream was to work in cooking.
 
+## Some stats:
 ![Drafenous github stats](https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact)

@@ -10,17 +10,19 @@ Contact-me on:<br/>
 - 💬 Ask me about anything you want
 - ⚡ Fun fact: When I was at school, my dream was to work in cooking.
 
-## Some stats:
-<table width="100%">
-  <tr>
-    <td width="54%">
-      <img alt="Drafenous github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai" />
-    </td>
-    <td width="46%">
-      <img alt="Drafenous github top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact" />
-    </td>
-  </tr>
-</table>
+<details open>
+  <summary>📈 <strong>Some stats:</strong></summary>
+  <table width="100%">
+    <tr>
+      <td width="54%">
+        <img alt="Drafenous github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai" />
+      </td>
+      <td width="46%">
+        <img alt="Drafenous github top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact&theme=monokai" />
+      </td>
+    </tr>
+  </table>
+</details>
 
 
 <!--

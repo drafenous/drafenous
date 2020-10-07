@@ -1,14 +1,14 @@
 # Hello World! 👋
 My name is <b>Rodrigo R. Almeida</b>, and my nickname on web is <b>Drafenous</b>, you can choice how you want to call me.<br/>
-I'm Brazilian (🇧🇷), born in 26/11/1993, and actually works as Front-End Engineer at [Devires I.T.](http://devires.com.br/en/) 💼
+I'm Brazilian (🇧🇷), born in <ins>26/11/1993</ins>, and actually works as Front-End Engineer at [Devires I.T.](http://devires.com.br/en/) 💼
 
 ## ✉ Contact-me on:<br/>
 [LinkedIn](https://www.linkedin.com/in/rodrigorobertoalmeida/) | [Linktree - Others links](https://linktr.ee/rodrigo_draf)
 
 ## More info:
-- 🔭 I’m currently working on a probably an awesome thing
-- 🌱 I’m currently learning React, TypeScript and GraphQL
-- 💬 Ask me about anything you want
+- 🔭 I’m currently working on a probably an awesome thing.
+- 🌱 I’m currently learning React, TypeScript and GraphQL.
+- 💬 Ask me about anything you want.
 - ⚡ Fun fact: When I was at school, my dream was to work in cooking.
 
 <details open>

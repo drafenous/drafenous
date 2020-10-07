@@ -11,12 +11,12 @@ Contact-me on:<br/>
 - ⚡ Fun fact: When I was at school, my dream was to work in cooking.
 
 ## Some stats:
-<table width="100%" border="0">
+<table width="100%">
   <tr>
-    <td>
+    <td width="54%">
       <img alt="Drafenous github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai" />
     </td>
-    <td>
+    <td width="46%">
       <img alt="Drafenous github top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact" />
     </td>
   </tr>

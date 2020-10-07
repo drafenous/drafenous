@@ -11,9 +11,17 @@ Contact-me on:<br/>
 - ⚡ Fun fact: When I was at school, my dream was to work in cooking.
 
 ## Some stats:
-![Drafenous github stats](https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai)
+<table width="100%" border="0">
+  <tr>
+    <td>
+      <img alt="Drafenous github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=monokai" />
+    </td>
+    <td>
+      <img alt="Drafenous github top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact)
 
 <!--
 **drafenous/drafenous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

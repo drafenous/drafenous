@@ -5,7 +5,7 @@ I'm Brazilian (🇧🇷), born in <ins>26/11/1993</ins>, and actually works as F
 ## ✉ Contact-me on:<br/>
 [LinkedIn](https://www.linkedin.com/in/rodrigorobertoalmeida/) | [Linktree - Others links](https://linktr.ee/rodrigo_draf)
 
-## More info:
+## ℹ️ More info:
 - 🔭 I’m currently working on a probably an awesome thing.
 - 🌱 I’m currently learning React, TypeScript and GraphQL.
 - 💬 Ask me about anything you want.

@@ -23,6 +23,7 @@ I'm Brazilian (🇧🇷), born in <ins>26/11/1993</ins>, and actually works as F
       </td>
     </tr>
   </table>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=drafenous" alt="Visitors counter badge" />
 </details>
 
 

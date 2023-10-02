@@ -1,6 +1,6 @@
 # Hello World! 👋
 My name is <b>Rodrigo R. Almeida</b>, and my nickname on web is <b>Drafenous</b>, you can choose how you want to call me.<br/>
-I'm Brazilian (🇧🇷), born in <ins>26/11/1993</ins>, and actually works as Front-End Engineer at [CantuStore](https://www.cantustore.com.br/) 💼
+I'm Brazilian (🇧🇷), born in <ins>26/11/1993</ins>, and actually works as Front-End Engineer 💼
 
 ## ✉ Contact-me on:<br/>
 [My Website - RodrigoWeb.DEV](https://www.rodrigoweb.dev) | [LinkedIn](https://www.linkedin.com/in/rodrigorobertoalmeida/) | [Linktree - Others links](https://linktr.ee/rodrigo_draf)

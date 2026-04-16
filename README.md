@@ -13,17 +13,16 @@ I'm Brazilian (🇧🇷), born in <ins>26/11/1993</ins>, and actually works as F
 
 <details open>
   <summary>📈 <strong>Some stats:</strong></summary>
-  <table width="100%">
+  <table>
     <tr>
-      <td width="54%">
-        <img alt="Drafenous github stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true" />
+      <td align="center">
+        <img alt="Drafenous github stats" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=drafenous&show_icons=true&theme=transparent" />
       </td>
-      <td width="46%">
-        <img alt="Drafenous github top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&layout=compact" />
+      <td align="center">
+        <img alt="Drafenous github top langs" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drafenous&theme=transparent&layout=compact" />
       </td>
     </tr>
   </table>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=drafenous" alt="Visitors counter badge" />
 </details>
 
 
